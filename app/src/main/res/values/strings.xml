@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PencarianRumahSakitMobile</string>
+    <string name="login">Login</string>
+    <string name="daftar">Daftar</string>
+
+    <string name="col1">Nama</string>
+    <string name="col2">Poli</string>
+    <string name="col3">Hari</string>
+    <string name="col4">Jam Praktik</string>
+
+    <string name="row1Nama">Dr. Bambang</string>
+    <string name="row1Poli">Umum</string>
+    <string name="row1Hari">Senin</string>
+    <string name="row1Jam">08.00-14.00</string>
+
+    <string name="row2Nama">Dr. Sindy</string>
+    <string name="row2Poli">Umum</string>
+    <string name="row2Hari">Selasa</string>
+    <string name="row2Jam">15.00-19.00</string>
+
+    <string name="row3Nama">Dr. Erfansyah</string>
+    <string name="row3Poli">Umum</string>
+    <string name="row3Hari">Rabu</string>
+    <string name="row3Jam">08.00-14.00</string>
+
+    <string name="row4Nama">Dr. Yuan Herman</string>
+    <string name="row4Poli">Gigi</string>
+    <string name="row4Hari">Kamis</string>
+    <string name="row4Jam">07.00-12.00</string>
+
+    <string name="row5Nama">Dr. Mahfud MD</string>
+    <string name="row5Poli">Saraf</string>
+    <string name="row5Hari">Selasa</string>
+    <string name="row5Jam">09.00-15.00</string>
+
+    <string name="row6Nama">Dr. Ihsan Nur</string>
+    <string name="row6Poli">Tulang</string>
+    <string name="row6Hari">Jumat</string>
+    <string name="row6Jam">07.00-11.00</string>
+</resources>
